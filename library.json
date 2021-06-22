@@ -1,0 +1,21 @@
+{
+    "name": "MS_TO_TIME",
+    "version": "1.0.0",
+    "keywords": "ms, ms to time, time converter, arduino, stm32",
+    "description": "Simple library convert ms to normal time",
+    "repository":
+    {
+      "type": "git",
+      "url": "git@github.com:TadasBruzas91/ms_to_time.git"
+    },
+    "authors":
+    [
+      {
+          "name": "Tadas Bruzas",
+          "email": "tadasbruzas91@gmail.com",
+          "maintainer": true
+      }
+    ],
+    "frameworks": "arduino",
+    "platforms": "rp2040, espressif8266, espressif32, ststm32"
+  }
