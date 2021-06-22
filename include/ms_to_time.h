@@ -1,5 +1,5 @@
-#ifndef MS_TO_TIME
-#define MS_TO_TIME
+#ifndef MS_TO_TIME_H
+#define MS_TO_TIME_H
 #include <Arduino.h>
 
 class MsConverter
